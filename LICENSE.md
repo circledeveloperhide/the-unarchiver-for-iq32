@@ -1,4 +1,4 @@
-
+The Unarchiver for macOS top Helper: clipboard-manager & file-encryption is the best The Unarchiver for macOS helper, featuring clipboard-manager and file-encryption. Safe,
 
 
 
